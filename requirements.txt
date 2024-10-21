@@ -1,0 +1,9 @@
+requests
+pytest
+pytest-xdist
+pytest-html
+pyyaml
+grpcio
+grpcio-testing
+grpcio-tools
+faker
