@@ -11,6 +11,7 @@ trace/
 *.log
 *.tmp
 *.swp
+*.html
 .DS_Store
 Thumbs.db
 npm-debug.log*

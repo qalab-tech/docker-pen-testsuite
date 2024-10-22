@@ -23,6 +23,7 @@ tests/
 *.log
 *.tmp
 *.swp
+*.html
 
 # Ignore system files
 .DS_Store
