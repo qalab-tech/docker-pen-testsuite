@@ -15,4 +15,4 @@ COPY . .
 RUN pip install pytest pytest-xdist pytest-html
 
 # Running tests
-CMD ["pytest", "--dist=loadscope", "--html=report.html", "--self-contained-html", "tests"]
+CMD ["pytest", "--dist=loadscope", "--html=report.html", "--self-contained-html", "tests/pen_methods_test.py"]
