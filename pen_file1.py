@@ -3,7 +3,7 @@
 
 class Pen(object):
     def __init__(self, **kwargs):
-        # the ink amount
+        # The ink amount
         self.ink_container_value = int(kwargs.get('ink_container_value', 1000))
         # size of the letter (font)
         self.size_letter = float(kwargs.get('size_letter', 1.0))
